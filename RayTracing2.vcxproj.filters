@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\BVH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Object.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Vector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Sphere.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\global.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Triangle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Scene.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Light.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\AreaLight.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\BVH.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Bounds3.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Ray.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Material.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Intersection.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\Renderer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\learnning\GAMES101\zuoye\Games101-Homework-Win-master\Assignment6\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{128C31B1-FA4D-3582-AC24-C35153744722}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E4EA4FCF-C732-3BBA-BF2D-743F4A03CCE7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
